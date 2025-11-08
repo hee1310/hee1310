@@ -9,7 +9,7 @@
 <br>
 
 
-> Not skillful in code
+> Not skillful in code  
 > Not hopeful in life
 
 <a href="https://github.com/hee1310#gh-light-mode-only">

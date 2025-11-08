@@ -9,7 +9,8 @@
 <br>
 
 
-> A coder who is passionate about web technologies and open source
+> Not skillful in code
+> Not hopeful in life
 
 <a href="https://github.com/hee1310#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=hee1310&show_icons=true&rank_icon=github&text_bold=true&theme=transparent&hide_border=true&locale=en&hide_title=true" align="right" alt="My GitHub Stats" />
@@ -22,7 +23,7 @@
 **I am a...**
 
 - [Github](https://github.com) user
-- A not do any Contributed ones
+- A GitHub user who has not made any contributions.
 - not more...
 
 <br>

@@ -30,8 +30,7 @@
 **Where to find me**
 
 
-[Twitter](https://twitter.com/hee__1310) ·
-[threads](https://threads.com/hee__1310) ·
+> I don't know
 
 <br>
 

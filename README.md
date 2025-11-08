@@ -12,11 +12,11 @@
 > A coder who is passionate about web technologies and open source
 
 <a href="https://github.com/hee1310#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=hee1310&show_icons=true&rank_icon=github&text_bold=true&theme=transparent&hide_border=true&locale=cn&hide_title=true" align="right" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hee1310&show_icons=true&rank_icon=github&text_bold=true&theme=transparent&hide_border=true&locale=en&hide_title=true" align="right" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/hee1310#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=hee1310&show_icons=true&rank_icon=github&text_bold=true&theme=transparent&hide_border=true&locale=cn&hide_title=true" align="right" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hee1310&show_icons=true&rank_icon=github&text_bold=true&theme=transparent&hide_border=true&locale=en&hide_title=true" align="right" alt="My GitHub Stats" />
 </a>
 
 **I am a...**

@@ -1,7 +1,7 @@
-<a href="https://skk.moe#gh-light-mode-only">
+<a href="https://github.com/hee1310#gh-light-mode-only">
   <img src="resources/light.png">
 </a>
-<a href="https://skk.moe#gh-dark-mode-only">
+<a href="https://github.com/hee1310#gh-dark-mode-only">
   <img src="resources/dark.png">
 </a>
 

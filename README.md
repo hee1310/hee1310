@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hee1310&show_icons=true&rank_icon=github&text_bold=true&theme=transparent&hide_border=true&locale=en&hide_title=true" align="right" alt="My GitHub Stats" />
 </a>
 
-**I am a...**
+## I am a...
 
 - [Github](https://github.com) user 😀
 - A GitHub user who has not made any contributions 😭
@@ -28,19 +28,30 @@
 
 <br>
 
-**Where to find me**
+## Where to find me
 
 
 > Dig deeper 🔨
 
 <br>
 
-**My GitHub Activities**
+## My GitHub Activities
 
 > None anything ❌
 
 <br>
 
-**Sponsors**
+## Sponsors
 
 Your sponsorship means a lot to me. It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/hee1310) 😘
+
+<br>
+
+## Metrics
+<!-- <div align="center">
+  <img src="https://api.githubtrends.io/user/svg/hee1310/langs?time_range=one_year&theme=classic" alt="Most Used Languages" width="300"/>
+  <img src="https://api.githubtrends.io/user/svg/hee1310/repos?time_range=one_year&theme=classic&group=other" alt="Most Contributed Repositories" width="300" />
+</div>
+<br> -->
+
+<div align="center"><img src="https://github-profile-trophy-tawny.vercel.app/?username=hee1310&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>

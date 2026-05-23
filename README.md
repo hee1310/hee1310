@@ -37,9 +37,10 @@
 <br>
 
 ## ✨  My favorite Anime
-<div align="center">
+<div>
   <a href="https://www.youtube.com/results?search_query=serial+experiments+lain">
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" width="500" alt="Metrics">
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" width="900" alt="Metrics">
+  </a>
 </div>
 
 <br>

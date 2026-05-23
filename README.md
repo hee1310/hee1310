@@ -28,9 +28,13 @@
 - ⚡ Interests: Steam gaming enthusiast
 - ❌ not more...
 
+<br>
+
 ## 🌐  Where to find me
 
 > Wandering around all corners of the internet
+
+<br>
 
 ## ✨  My favorite Anime
 <div>
@@ -39,9 +43,13 @@
   </a>
 </div>
 
+<br>
+
 ## ❤  Sponsors
 Every warm support means countless power to me. 
 It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/hee1310) 😘
+
+<br>
 
 ## 📊  Metrics
 > Growth traces recorded here step by step

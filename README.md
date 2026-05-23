@@ -24,17 +24,13 @@
 
 ## 📌  About Me
 - 🔭 Currently focusing on: Chilling and slacking off
-- <a href="https://github.com/hee1310#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/github/white" width="16" /><a href="https://github.com/hee1310#gh-light-mode-only"><img src="https://cdn.simpleicons.org/github" width="16" /></a> A [GitHub](https://github.com) user 😀
+- <a href="https://github.com/hee1310#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/github/white" width="17" /><a href="https://github.com/hee1310#gh-light-mode-only"><img src="https://cdn.simpleicons.org/github" width="17" /></a> A [GitHub](https://github.com) user 😀
 - ⚡ Interests: Steam gaming enthusiast
 - ❌ not more...
-
-<br>
 
 ## 🌐  Where to find me
 
 > Wandering around all corners of the internet
-
-<br>
 
 ## ✨  My favorite Anime
 <div>
@@ -43,13 +39,9 @@
   </a>
 </div>
 
-<br>
-
 ## ❤  Sponsors
 Every warm support means countless power to me. 
 It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/hee1310) 😘
-
-<br>
 
 ## 📊  Metrics
 > Growth traces recorded here step by step

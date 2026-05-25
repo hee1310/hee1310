@@ -42,6 +42,10 @@
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg" width="900" alt="Metrics">
   </a>
 </div>
+<p align="center">
+  <i>"Supreme worshiper of Lain"</i> <br>
+  <b>「吾は究極レインの信者なり」</b>
+</p>
 
 <br>
 
@@ -56,8 +60,3 @@ It will help me sustain my projects actively, make more of my ideas come true, a
 <div align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=hee1310&theme=nord&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
-
-<p align="center">
-  <i>"Supreme worshiper of Lain"</i> <br>
-  <b>「吾は究極レインの信者なり」</b>
-</p>

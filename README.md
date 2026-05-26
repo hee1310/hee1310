@@ -51,7 +51,7 @@
 
 ## ❤  Sponsors
 Every warm support means countless power to me. 
-It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/hee1310) 😘
+It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://hee1310.github.io/images/sponsor/wechat.png) (WeChat Pay)😘
 
 <br>
 

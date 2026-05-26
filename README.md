@@ -6,7 +6,7 @@
 </a>
 
 <br>
-<div align="center">
+<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
 <a href="https://space.bilibili.com/453965681">
   <img src="https://img.shields.io/badge/-Bilibili-00B3EF?style=flat-square&logo=Bilibili&logoColor=white" />
 <a href="https://steamcommunity.com/id/hee1310/">
